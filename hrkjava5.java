@@ -1,3 +1,4 @@
+// Java Data Types
 import java.util.Scanner;
 public class hrkjava5 {
     public static void main(String []argh){
